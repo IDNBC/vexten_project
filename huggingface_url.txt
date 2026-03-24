@@ -1,0 +1,4 @@
+https://huggingface.co/Xenova/multilingual-e5-small/tree/main/onnx
+
+重くならないようにmodelsフォルダ内構成からモデルを削除しています。
+上のリンク先からダウンロードすることができます。
